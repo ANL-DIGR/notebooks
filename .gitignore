@@ -1,1 +1,6 @@
 *.nc
+
+# Don't version control checkpoints
+.ipynb_checkpoints*
+# html files should are generated from notebook and should not be checked in.
+*.html
