@@ -7,7 +7,7 @@
     * [http://continuum.io/downloads](http://continuum.io/downloads)
 2. Install Py-ART.
     * Open a terminal or shell (Run **cmd** on Windows)
-    * Execute the command: **conda install -c jjhelmus pyart**
+    * Execute the command: **conda install -c https://conda.binstar.org/jjhelmus pyart** 
     * Answer y[es] to any prompts to install software.
 3. Download the course materials.
     * Available in the **PyART_Tutorial** directory on the flash drives.
